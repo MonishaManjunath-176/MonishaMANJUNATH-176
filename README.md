@@ -14,6 +14,6 @@ I'm a second-year B.Tech student in Mathematics & Computing at M.S. Ramaiah Univ
 * **Tools:** Git, VS Code, Jupyter Notebook, Pandas
 
 📫 **How to reach me:**
-* Connect with me on **[LinkedIn](https://www.linkedin.com/in/monishamanjunath)**
+* Connect with me on **[LinkedIn](https://www.linkedin.com/in/monisha-manjunath-tech?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
 * mail id
   monishamanjunath176@gmail.com
