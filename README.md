@@ -6,7 +6,7 @@ I'm a second-year B.Tech student in Mathematics & Computing at M.S. Ramaiah Univ
 
 🌱 **I’m currently learning:**
 * Advanced Python in the "100 Days of Code" bootcamp.
-* Data Analysis with Python via IBM's Cognitive Class.
+* Developing skills required for Data.
 
 💻 **My Tech Stack:**
 * **Languages:** Python, SQL, C++
